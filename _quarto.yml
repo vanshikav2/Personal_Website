@@ -1,0 +1,24 @@
+project:
+  type: website 
+  output-dir: docs
+
+website:
+  title: "Personal_Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - contact.qmd
+      - projects.qmd
+
+format:
+  html:
+    theme:
+     light: sketchy
+     dark: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+

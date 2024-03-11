@@ -1,0 +1,15 @@
+---
+title: "How to get my number?"
+---
+
+## It's simple really!
+
+Number: 647-409-5915
+
+Email: vanshikav.024\@gmail.com
+
+Linkedln: linkedin.com/in/vanshika-vanshika-15b7491ab
+
+```{r}
+
+```

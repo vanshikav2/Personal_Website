@@ -1,0 +1,31 @@
+---
+title: "Who Am I?"
+---
+
+## 
+
+Greetings! I'm Vanshika Vanshika – an enthusiast fueled by curiosity and driven by passion. My academic journey intertwines the realms of Statistics and Economics, with a sprinkle of Computer Science, all crafted at the esteemed University of Toronto. As I tread the path towards my Bachelor's degree, I've immersed myself in the boundless expanse of technology and data analytics, honing my craft in languages such as Java, Python, and C/C++. Each line of code I write is a brushstroke on the canvas of innovation, painting a vivid picture of endless possibilities.
+
+### **Passion for Boxing and Creative Expression**
+
+Outside of the tech world, I find solace and exhilaration in the art of boxing. It's not just a sport for me; it's a discipline that instills focus, resilience, and determination. The ring is where I challenge myself physically and mentally, pushing beyond limits to achieve personal growth.
+
+But my interests don't stop there. I'm also an avid painter and dancer. Painting allows me to unleash my creativity onto canvas, while dancing is my expression of joy and freedom. These creative outlets enrich my life and bring balance to my pursuit of technical excellence.
+
+### **Skills Beyond Code**
+
+My journey extends beyond lines of code. I've been involved in various projects and experiences that have honed my communication, leadership, and problem-solving abilities.
+
+As a Programming Instructor at Code Ninjas, I had the opportunity to inspire young minds in the world of coding and technology. Organizing hackathons, facilitating learning sessions, and witnessing the spark of curiosity in my students have been incredibly rewarding experiences.
+
+At the University of Toronto, I've not only excelled academically but also taken on roles as a facilitator and study group leader. Teaching economics concepts and guiding discussions have refined my ability to communicate complex ideas effectively.
+
+### **Projects that Make a Difference**
+
+I've had the privilege of working on impactful projects that leverage data analysis to address real-world issues. From analyzing patterns in suicide calls to assessing the impact of COVID-19 on student performance, I've delved into diverse datasets to glean insights that contribute to community well-being and policy-making.
+
+Additionally, my passion for software development led me to create innovative solutions like a file management software employing tree structures and an interactive graphical interface Boggle game, showcasing my proficiency in software design and development methodologies.
+
+```{r}
+
+```

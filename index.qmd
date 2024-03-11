@@ -1,0 +1,12 @@
+---
+title: "Welcome to my Personal Website!"
+---
+
+Hello Guests,
+
+My name is Vanshika Vanshika and I am an undergraduate student at University of Toronto, majoring in Statistics and Economics and minor in Computer Science.
+
+```{r}
+```
+
+![](images/IMG_8755.png)
