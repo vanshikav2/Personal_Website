@@ -4,7 +4,7 @@ title: "Who Am I?"
 
 ## 
 
-Greetings! I'm Vanshika Vanshika – an enthusiast fueled by curiosity and driven by passion. My academic journey intertwines the realms of Statistics and Economics, with a sprinkle of Computer Science, all crafted at the esteemed University of Toronto. As I tread the path towards my Bachelor's degree, I've immersed myself in the boundless expanse of technology and data analytics, honing my craft in languages such as Java, Python, and C/C++. Each line of code I write is a brushstroke on the canvas of innovation, painting a vivid picture of endless possibilities.
+Greetings! I'm Vanshika Vanshika – an enthusiast fueled by curiosity and driven by passion. My academic journey intertwines the realms of Statistics and Economics, with a sprinkle of Computer Science, all crafted at the esteemed University of Toronto. As I tread the path towards my Bachelor's degree, I've immersed myself in the boundless expanse of technology and data analytics, honing my craft in languages such as R, Java, Python, and C/C++. Each line of code I write is a brushstroke on the canvas of innovation, painting a vivid picture of endless possibilities.
 
 ### **Passion for Boxing and Creative Expression**
 
